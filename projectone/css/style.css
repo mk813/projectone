@@ -1,0 +1,50 @@
+progress.navbar-reading_progress {
+}
+.navbar.is-scrolling .navbar-reading_progress {
+    display: block;
+}
+.navbar-reading_progress[value] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    height: 4px;
+    width: 100%;
+}
+
+.navbar-reading_progress {
+    color: #204ecf;
+    display: none;
+}
+* {
+    box-sizing: border-box;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+progress {
+    -webkit-writing-mode: horizontal-tb !important;
+    appearance: auto;
+    box-sizing: border-box;
+    display: inline-block;
+    height: 1em;
+    width: 10em;
+    vertical-align: -0.2em;
+}
+.author_card_section-title, .blog_post_body .footnote, .blog_post_body h2, .blog_post_body h3, .blog_post_body h4, .blog_post_body p.is-with-image_caption, .blog_post_body summary, .blog_post_body table td, .blog_post_body table th, .blog_post_card.is-plain-text__author, .cookie_banner, .cookie_banner-btn_allow, .key_learnings-title, .read_next-title, .search-results_item, .search-submit, .search-view_all, .subscribe_card-error, .subscribe_card-input, .tags_section-title_stacked, .trending_articles_section-title, body {
+    font-family: "Proxima Nova",Arial,sans-serif;
+    font-weight: 400;
+}
+body {
+    line-height: 1;
+    overflow-x: hidden;
+}
+.article_bio-excerpt, .cookie_banner, .cookie_banner-btn_allow, .navbar-headline, .navbar-title, .search-results_item, .search-submit, .search-view_all, .subscribe_card-error, .subscribe_card-input, body {
+    font-family: "Proxima Nova",Arial,sans-serif;
+    font-weight: 400;
+}
+body {
+    line-height: 1;
+    overflow-x: hidden;
+}
